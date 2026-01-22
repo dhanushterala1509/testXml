@@ -1,6 +1,7 @@
-projectKey=testJars
-serverUrl=http://localhost:9000
-serverVersion=25.9.0.112764
-dashboardUrl=http://localhost:9000/dashboard?id=testJars
-ceTaskId=9e39668d-ef8f-45d2-be12-7bf96a604762
-ceTaskUrl=http://localhost:9000/api/ce/task?id=9e39668d-ef8f-45d2-be12-7bf96a604762
+organization=dhanushterala1509
+projectKey=dhanushterala1509_testhtml
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.78759
+dashboardUrl=https://sonarcloud.io/dashboard?id=dhanushterala1509_testhtml&pullRequest=5
+ceTaskId=AZvkfYGmdMX4ij_CAF8M
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZvkfYGmdMX4ij_CAF8M
